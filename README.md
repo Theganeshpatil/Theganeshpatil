@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Theganeshpatil
-- 👀 I’m interested in Web3 but learning web 2 alongside
-- 🌱 I’m currently learning MERN stack along with DSA
-- 📫 Reach me at https://twitter.com/Theganeshpatil
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning MERN stack, DSA
 - Feel free to reach out to me for any topic
