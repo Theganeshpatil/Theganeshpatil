@@ -5,7 +5,6 @@
 <!-- <blockquote style="background-color:; color:black;"> -->
 I am Ganesh Patil. I pursing my B.Tech in Computer Science And Engineering With Specialisation in Cyber Security from IIIT Kottayam 🏫. I love to explore and learn about new things.
 
-
 ## ⚡ Technologies
 
 Talk to me about:
@@ -20,7 +19,7 @@ Talk to me about:
 
 <!-- </blockquote> -->
 
----
+## ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=theganeshpatil&theme=transperant&show_icons=true)
 
 <div align="center">
 <i>Follow me around the web:</i><br>
