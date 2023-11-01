@@ -19,7 +19,7 @@ Talk to me about:
 
 <!-- </blockquote> -->
 
-## ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=theganeshpatil&theme=transperant&show_icons=true)
+## [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/theganeshpatil?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <div align="center">
 <i>Follow me around the web:</i><br>
